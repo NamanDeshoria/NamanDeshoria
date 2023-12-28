@@ -3,7 +3,7 @@
 <!--
 **NamanDeshoria/NamanDeshoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src ="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fai.plainenglish.io%2Fhow-to-become-data-scientist-a-beginner-guide-b6139fe064b9&psig=AOvVaw1v2aYKwKwGpVPYeo2-jNuE&ust=1703849710546000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjHp_mEsoMDFQAAAAAdAAAAABAD">
+<img src ="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif?raw=true">
 
 Here are some ideas to get you started:
 
